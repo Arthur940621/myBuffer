@@ -4,7 +4,7 @@
 #include <arpa/inet.h>
 #include <sys/socket.h>
 #include <pthread.h>
-#include "buffer.h"
+#include "Buffer.h"
 
 using namespace std;
 

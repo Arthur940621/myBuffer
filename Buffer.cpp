@@ -1,4 +1,4 @@
-#include "buffer.h"
+#include "Buffer.h"
 
 Buffer::Buffer(int buf_size) : buffer_(buf_size, 0), read_pos_(0), write_pos_(0) { }
 
