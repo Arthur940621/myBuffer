@@ -1,7 +1,7 @@
 #pragma once
 
+#include <string>
 #include <cstring>
-#include <iostream>
 #include <vector>
 #include <atomic>
 #include <unistd.h>
